@@ -16,7 +16,7 @@ aman. Fokus pada SDG 8 (Pekerjaan Layak & Pertumbuhan Ekonomi).
 
 ### Running App
 1. Clone repository:
-`git clone [link-repo-anda]`
+`git clone (https://github.com/joshanrichard230-pixel/Mobile_Hybrid_Solution)`
 2. Setup Backend:
 `cd backend && npm install && npm run start:dev`
 3. Setup Frontend:
